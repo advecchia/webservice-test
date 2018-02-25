@@ -1,0 +1,7 @@
+# Eclipse profile
+.classpath
+.settings
+.project
+
+# Project auto generated
+/target
